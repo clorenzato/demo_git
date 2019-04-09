@@ -1,1 +1,3 @@
-Mon nouveau fichier
+Mon nouveau fichier TXT
+
+Donc now je dois pouvoir faire des modifications dessus est récupérer ça partout ;)
